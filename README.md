@@ -35,12 +35,10 @@ The exporter automatically finds common Edge and Chrome installations. A custom 
 ## Install
 
 ```powershell
-git clone https://github.com/your-username/pinterest-board-exporter.git
+git clone https://github.com/deRedfish/pinterest-board-exporter.git
 cd pinterest-board-exporter
 npm install
 ```
-
-Replace the clone URL with this repository's actual GitHub URL after publishing it.
 
 ## Export a board
 

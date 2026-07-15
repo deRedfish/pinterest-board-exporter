@@ -22,5 +22,13 @@
     "scraper",
     "powershell",
     "playwright"
-  ]
+  ],
+  "homepage": "https://github.com/deRedfish/pinterest-board-exporter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deRedfish/pinterest-board-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deRedfish/pinterest-board-exporter/issues"
+  }
 }
