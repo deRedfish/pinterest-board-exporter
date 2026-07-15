@@ -1,0 +1,26 @@
+{
+  "name": "pinterest-board-exporter",
+  "version": "1.0.0",
+  "description": "Export Pinterest boards into section folders with full-size media and Pin descriptions.",
+  "type": "module",
+  "private": false,
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "pinterest-scrape": "node pinterest-browser-exporter.mjs",
+    "pinterest-export": "node pinterest-exporter.mjs",
+    "test": "node --test pinterest-exporter.test.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.61.1"
+  },
+  "keywords": [
+    "pinterest",
+    "exporter",
+    "scraper",
+    "powershell",
+    "playwright"
+  ]
+}
